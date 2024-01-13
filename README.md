@@ -1,4 +1,6 @@
-# Portfólio Olá, bem-vindo(a) ao meu projeto de portfólio!
+# Portfólio 
+
+Olá, bem-vindo(a) ao meu projeto de portfólio!
 
 ![portfolio-img](https://github.com/sarahsantos0/portfolio/assets/73093949/2458e057-91ec-450c-88ce-f19a1ee3a859)
 
