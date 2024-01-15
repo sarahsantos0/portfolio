@@ -191,8 +191,22 @@ li {
         flex-direction: column-reverse;
         padding: 5%;
     }
+    .about {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .curriculo {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
 
     .container_conteudo {
+        width: auto;
+    }
+    .conteudo_about {
+        width: auto;
+    }
+    .container_conteudo_curriculo {
         width: auto;
     }
 }
