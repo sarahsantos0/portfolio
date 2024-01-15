@@ -202,7 +202,7 @@ li {
     }
 
     .container_conteudo {
-        width: center;
+        width: auto;
     }
     .conteudo_about {
         width: auto;
