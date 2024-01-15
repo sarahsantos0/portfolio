@@ -185,6 +185,7 @@ li {
 
     .cabecalho_menu{
         justify-content: center;
+        gap: 25px;
     }
 
     .container {
@@ -201,7 +202,7 @@ li {
     }
 
     .container_conteudo {
-        width: auto;
+        width: center;
     }
     .conteudo_about {
         width: auto;
