@@ -192,7 +192,7 @@ li {
         padding: 5%;
     }
     .about {
-        flex-direction: column-reverse;
+        flex-direction: column;
         padding: 5%;
     }
     .curriculo {
