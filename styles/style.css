@@ -190,7 +190,7 @@ li {
 
     .container {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 10%;
     }
     .about {
         flex-direction: column;
