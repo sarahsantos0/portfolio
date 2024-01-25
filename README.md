@@ -14,4 +14,4 @@ Olá, seja bem-vindo(a) ao meu primeiro projeto de portfólio!
 ### Sarah Santos 👩‍💻
 ### Linkedin: [Sarah Santos](https://www.linkedin.com/in/sarah-santos-1977b5279/) 🌐
 
-Sinta-se à vontade para explorar e me conectar! 🚀
+Sinta-se à vontade para explorar e me conectar!
